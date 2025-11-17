@@ -1,0 +1,201 @@
+Q & A
+(Fetched Data From the website and general questions)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source citations (most important)
+1. Company homepage / case studies. dgtl-factory.com
+2. Privacy & data practices (privacy policy). dgtl-factory.com
+3. Patent marking (MicroFencing�, Dwell�, Present�; U.S. patent list). dgtl-factory.com
+4. Patent records and abstracts. Justia Patents
+5. n8n RAG/chatbot workflow you plan to use. n8n
+
+1 � Company identity & summary
+Q: Who is Digital Factory and what do they do?
+A: Digital Factory Technologies, Inc. is a Chicago-based mobile ad-tech and data-analytics company that builds patented location technologies (MicroFencing�, Dwell�, Present�) to deliver accurate, real-world mobile engagement and analytics for brands and apps. dgtl-factory.com+1
+Q: Where is Digital Factory located and how do I contact them?
+A: Listed head office: 303 East Wacker Drive, Chicago, Illinois 60605. Public contact emails on the site include sales-info@dgtl-factory.com and contact@dgtl-factory.com; official info email per privacy policy: info@dgtl-factory.com. dgtl-factory.com+1
+Q: Does Digital Factory hold patents?
+A: Yes. The company publicly marks MicroFencing�, Dwell�, Present� and lists U.S. patents (e.g., U.S. Patent No. 10,163,110 and U.S. Patent No. 11,044,572) and related patent abstracts. dgtl-factory.com+1
+
+2 � Technologies & features
+Q: What is MicroFencing�?
+A: MicroFencing� is Digital Factory�s high-accuracy geofencing technology designed to place very small, precision virtual fences (from street corners to whole cities) that trigger contextual mobile messages and analytics when a device crosses or dwells in those areas. dgtl-factory.com
+Q: What is Dwell� and how is it used?
+A: Dwell� measures how long a user remains at a location (dwell time) and combines that with other attributes to improve audience profiles, conversion probability scoring, and analytics used by campaigns or apps. dgtl-factory.com+1
+Q: What is Present� (if referenced)?
+A: Present� is a named tool in Digital Factory�s patent marking list; it is presented alongside MicroFencing� and Dwell� as part of the company�s suite of location-engagement products. Patent pages list Present� among covered tools. dgtl-factory.com
+Q: Are these technologies integrated into client apps or standalone apps?
+A: Digital Factory�s solutions can be integrated into a client�s native application or delivered through custom applications built for clients. Data ownership and primary terms depend on the client agreement; Digital Factory states clients generally own their program data. dgtl-factory.com
+
+3 � Use cases, industries, and results
+Q: Which industries does Digital Factory serve?
+A: Examples on the site and blog include automotive, entertainment/live events, healthcare, gaming, media/publishing, and retail/brands � demonstrated through case studies with partners like Ford, Live Nation UK, CVS Health, Touchjet, Snack Media, Leo Burnett, etc. dgtl-factory.com+1
+Q: What outcomes have customers achieved?
+A: Case-study examples show results like a 60% increase in test-drive engagement for Ford during an event; large impression volumes for Live Nation UK and measurable conversion and engagement improvements for other clients (numbers are given per case study). Use-case results are presented as campaign outcomes in the site�s case studies section. dgtl-factory.com
+Q: How does Digital Factory measure campaign success?
+A: Success metrics shown include notifications delivered, conversation/engagement rates, conversion increases, impressions, and saved costs (example metrics are displayed per case study). The technology uses real-time dashboards and analytics to visualize and act on data. dgtl-factory.com
+
+4 � Data collection, privacy, and security
+Q: What user data does Digital Factory collect?
+A: Digital Factory may collect location data and, depending on client programs, some additional external/system-level data (weather, travel patterns). They state they do not collect financial or medical sensitive types directly and report analytics in aggregate. Collection is subject to client program choices. dgtl-factory.com
+Q: Does Digital Factory sell personal data?
+A: The privacy policy states Digital Factory does not sell personal information and does not sell/rent/lease customer or user lists to third parties. dgtl-factory.com
+Q: Who owns the data collected through programs?
+A: The client (program sponsor) generally owns the data from their end users; Digital Factory acts as the service provider and processes data per the client�s program and terms. End users are advised to review the client�s privacy terms. dgtl-factory.com
+Q: What security measures are described?
+A: The privacy policy describes technical, physical and organizational security controls and mentions SSL; it acknowledges internet transmission risks and limits absolute guarantees. For custom apps, Digital Factory references �military-grade security� in case studies for healthcare solutions. dgtl-factory.com+1
+Q: How can users request deletion of their data?
+A: The privacy policy describes a �Right to Deletion� process: Digital Factory will delete personal identifiable information on receipt of a verifiable request, subject to legal and operational exceptions (e.g., fraud detection, debugging, legal obligations). Contact details are provided in the privacy policy. dgtl-factory.com
+
+5 � Implementation, integration & product questions
+Q: How do I integrate Digital Factory into my mobile app?
+A: Digital Factory�s technology is designed to plug into a client�s native application or be shipped as a custom app. Implementation usually involves SDK or integration work to gather location signals, configure micro-fences, and route analytics to a dashboard; specifics are contractual and handled by Digital Factory�s sales/implementation teams. (Site indicates app integrations and dashboarding capabilities.) dgtl-factory.com
+Q: Is there an API or SDK publicly documented?
+A: The public website highlights integrations and dashboarding but does not publish public API/SDK docs on the marketing pages; request developer/API details directly from the sales or technical contact listed on the site. dgtl-factory.com+1
+Q: What is the typical onboarding process and timeline?
+A: The site emphasizes custom engagement and data-driven implementation; it does not publish a fixed timeline. Onboarding will depend on app access, SDK integration, micro-fence design, and campaign goals � estimate and schedule are provided per client onboarding conversation. dgtl-factory.com
+Q: Which third-party systems and platforms does Digital Factory work with?
+A: Case studies show integrations with client apps and campaigns across app ecosystems. Public social and partner signals indicate typical ad-tech and app ecosystems, but specific connector lists are not public; confirm during technical scoping. dgtl-factory.com+1
+
+6 � Pricing, contracts, and procurement
+Q: How much does Digital Factory charge?
+A: Pricing is not published on the public site. Procurement and pricing are handled through sales contracts tailored to campaign scope, integration complexity, and data services. Contact sales-info@dgtl-factory.com for quotes. dgtl-factory.com
+Q: What licensing or contract model is used?
+A: The site implies enterprise/client contracts that include terms, privacy agreements and data ownership clauses. Clients typically sign program-specific Terms of Use; Digital Factory references that client terms govern end-user experience when integrated in client apps. dgtl-factory.com
+
+7 � Legal, compliance, and patents
+Q: Which patents cover Digital Factory solutions?
+A: The company lists U.S. patents including No. 10,163,110 and No. 11,044,572, and notes MicroFencing�, Dwell�, Present� may be covered by one or more patents. Use the patent marking page and public patent records for exact claims and patent families. dgtl-factory.com+1
+Q: What governing law applies?
+A: The privacy policy and terms indicate governing law is the State of Illinois for their Terms of Use and web products, and the site references compliance with CCPA requirements where applicable. dgtl-factory.com
+
+8 � Case studies & evidence (user-facing short Q/A)
+Q: Can you list notable clients and results?
+A: Public case studies cite Ford (60% increase in test-drive engagement in a 3-day event), Live Nation UK (6.8M+ impressions in London), CVS Health (identified cost reductions and digital adoption lift), Touchjet, Snack Media, Leo Burnett, and others. Exact figures are shown in the case studies; full reports require signup/contact. dgtl-factory.com
+Q: Are full case studies publicly available?
+A: The site shows summaries and asks users to sign up to see full case studies. Contact sales to request complete case study documents. dgtl-factory.com
+
+9 � Support & troubleshooting
+Q: How do I get technical support?
+A: Use listed contact emails or the support channel indicated on the site. For legal/privacy issues use info@dgtl-factory.com or the General Counsel number listed in the privacy policy. dgtl-factory.com+1
+Q: What operational logs and diagnostics are available?
+A: The privacy policy references Systems Operations Data (logs, event files, diagnostics) used to operate and maintain services. These are recorded as part of service operation and subject to client agreement. dgtl-factory.com
+
+10 � Privacy-oriented user questions (for end users)
+Q: I�m an app user � how is my location used?
+A: If a client�s app includes Digital Factory technology, location is collected to provide the app�s features (notifications, relevant content). Data use is subject to the client�s privacy terms and Digital Factory�s privacy policy; users must review their program sponsor�s terms and any in-app consent flows. dgtl-factory.com
+Q: Can I opt out of location tracking?
+A: Opt-out depends on the client app and platform settings. The privacy page instructs users to consult the program sponsor�s terms and app settings; end users can manage permissions via their device settings and request deletion as per the Right to Deletion procedure. dgtl-factory.com
+
+11 � Generic marketing & product questions (to cover conversational queries)
+Q: What�s the difference between geofencing and micro-fencing?
+A: Geofencing is broad virtual boundaries; micro-fencing (as marketed by Digital Factory) denotes much higher spatial precision (street corner granularity) plus dwell-time and richer behavior signals for better targeting and analytics. dgtl-factory.com
+Q: What metrics should I expect to track?
+A: Impressions, notifications delivered, dwell time, engagement/conversion rate, conversion probability, app behavior before/after a fence event, and campaign ROI are standard metrics showcased in case studies. dgtl-factory.com
+Q: Is this solution suitable for small businesses?
+A: The site highlights enterprise and campaign-level case studies; approach sales to discuss scaled or pilot options. No small-business pricing is published publicly. dgtl-factory.com+1
+
+12 � Questions for sales & procurement (phrases the chatbot should route)
+Q: Request a demo, pricing, or technical documentation.
+A: Route to sales-info@dgtl-factory.com or contact@dgtl-factory.com and specify: business name, app/platform, use case, expected geo scope, estimated monthly active users, and desired KPIs. The site directs sales inquiries to listed emails. dgtl-factory.com
+Q: Ask for security/compliance whitepaper or SOC/ISO certifications.
+A: Digital Factory does not publish SOC/ISO documents publicly on marketing pages; request security/compliance documentation via sales or legal contacts. dgtl-factory.com
+
+13 � Chatbot training notes (developer prompts)
+* Instruct RAG to always prefer the company�s privacy policy for any data-privacy answer. dgtl-factory.com
+* For technical or patent claims, include patent references (U.S. patent numbers) when the user asks about intellectual property. dgtl-factory.com+1
+* When the user asks for case-study details beyond the public summary, return a short summary and an action card: �Contact sales for full case study.� dgtl-factory.com
+* When asked for APIs/SDKs, return: �No public SDK/API docs found � escalate to technical sales.� dgtl-factory.com+1
+
+14 � Additional generic Qs to cover edge cases (answers phrased for indexing)
+Q: What happens to data if a client ends service?
+A: Data retention and deletion follow the client contract and policy; Digital Factory�s privacy policy outlines the Right to Deletion and exceptions for legal/operational needs. Escalate to legal for contract-specific details. dgtl-factory.com
+Q: Does Digital Factory work internationally?
+A: Case studies reference global campaigns (e.g., UK Live Nation), indicating international operations; legal terms reference U.S. governing law. Confirm international support and data residency during procurement. dgtl-factory.com+1
+Q: Can Digital Factory target inside venues (indoor micro-fences)?
+A: The technology claims high-precision micro-fencing and dwell analytics; site examples include event venues and entrances. Indoor feasibility depends on signal availability and integration approach. dgtl-factory.com+1
+
+15 � Bot behavior mapping (how to answer, escalate rules)
+* If user asks contact or demo ? respond with emails and ask to collect: company name, app, scope, KPIs (for human follow-up). dgtl-factory.com
+* If user asks for legal/patent texts ? provide listed patent numbers and link to patent records. dgtl-factory.com+1
+* If user asks for privacy details ? quote the privacy policy excerpt about location data, non-sale, and Right to Deletion. dgtl-factory.com
+* If user asks for pricing/contract specifics ? route to sales; do not invent prices. dgtl-factory.com
+
+16 � Content for direct ingestion (FAQ pairs ready to index)
+Below are 24 ready Q/A pairs (short form) suitable for ingestion. Use them as-is in your knowledge base indexer:
+1. Q: What is Digital Factory?
+A: Chicago-based ad-tech and data analytics firm delivering patented location products (MicroFencing�, Dwell�, Present�). dgtl-factory.com
+2. Q: How can I contact sales?
+A: sales-info@dgtl-factory.com and contact@dgtl-factory.com. dgtl-factory.com
+3. Q: Where is your office?
+A: 303 East Wacker Drive, Chicago, IL 60605 (per privacy policy). dgtl-factory.com
+4. Q: Do you have patents?
+A: Yes; patents include U.S. 10,163,110 and U.S. 11,044,572 (MicroFencing�, Dwell�, Present�). dgtl-factory.com+1
+5. Q: What data do you collect?
+A: Location data and aggregated system-level data as required by client programs; no sale of personal info per policy. dgtl-factory.com
+6. Q: Who owns the data?
+A: Typically the client/program sponsor owns the data; client terms govern end-user data use. dgtl-factory.com
+7. Q: What measurable results exist?
+A: Public case studies report outcomes like Ford�s 60% test-drive engagement uplift and Live Nation UK�s 6.8M+ impressions. dgtl-factory.com
+8. Q: Does Digital Factory sell user lists?
+A: No � the privacy policy states they do not sell user lists. dgtl-factory.com
+9. Q: How to request deletion of my personal data?
+A: Submit a verifiable deletion request as specified in the privacy policy; exceptions apply. dgtl-factory.com
+10. Q: Is there a developer API?
+A: No public API docs found; request API/SDK details from sales/technical contact. dgtl-factory.com+1
+11. Q: Can you run campaigns internationally?
+A: Yes � case studies include international campaigns; check data residency and legal terms during scoping. dgtl-factory.com+1
+12. Q: Can I get a demo?
+A: Contact sales-info@dgtl-factory.com with company/app details, scope, and KPIs. dgtl-factory.com
+13. Q: What is Dwell� used for?
+A: Measuring time spent at places (dwell time) to refine targeting and conversion scoring. dgtl-factory.com
+14. Q: What reporting is available?
+A: Real-time dashboards and analytics are mentioned on the site; specific reports depend on client setup. dgtl-factory.com
+15. Q: Do you support healthcare clients?
+A: Yes � healthcare case studies (e.g., Blue Cross Blue Shield) are published showing patient engagement solutions. dgtl-factory.com
+16. Q: What is MicroFencing� accuracy?
+A: Marketed as higher-accuracy geofencing allowing micro-scale fences (street corner to city). Exact precision depends on device/location signals. dgtl-factory.com
+17. Q: How are privacy laws addressed?
+A: The privacy policy references CCPA compliance and governs data practices; contracts will address jurisdictional compliance. dgtl-factory.com
+18. Q: Where do I get full case studies?
+A: The site asks users to sign up for full case studies; contact sales for full files. dgtl-factory.com
+19. Q: Who do I call for legal questions?
+A: The privacy policy lists a General Counsel contact (phone) and info@dgtl-factory.com. dgtl-factory.com
+20. Q: What industries are best suited?
+A: Retail, automotive, events, healthcare, media, gaming � any business needing precise mobile engagement. dgtl-factory.com
+21. Q: What are typical KPIs to measure?
+A: Impressions, notifications, dwell time, engagement/conversion rate, conversions, ROI. dgtl-factory.com
+22. Q: Do you offer pilot projects?
+A: Pilots are not explicitly listed; ask sales to discuss pilot or proof-of-concept engagements. dgtl-factory.com
+23. Q: Who owns the intellectual property in apps you build?
+A: Client terms and specific contracts determine IP ownership; the privacy policy explains terms for custom applications. dgtl-factory.com
+24. Q: Where can I learn how to build a RAG chatbot to serve these Q/As?
+A: The n8n workflow �Build a Documentation Expert Chatbot with Gemini RAG Pipeline� is a usable template for indexing documentation and building a RAG chatbot. n8n
+
+17 � Instructions for indexing (technical)
+* Break text into chunks of ~200�600 tokens before generating embeddings.
+* Tag each Q/A with a category label (About, Tech, Privacy, CaseStudy, Sales, Legal, Support).
+* Add metadata fields: source_url, last_crawled, confidence (derived from whether content is first-party site). For first-party source set confidence=0.9. dgtl-factory.com+1
+
+18 � Gaps and recommended follow-ups (for human team)
+* No public developer/API documentation found � request SDK/API docs and sample request/response formats from engineering. dgtl-factory.com
+* Full case-study PDF downloads require signup; ask sales for access to full metrics and methodology per case study. dgtl-factory.com
+* Security/compliance certifications (SOC2, ISO) are not published � request current attestation documents from legal/compliance
