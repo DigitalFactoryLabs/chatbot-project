@@ -1,13 +1,23 @@
-# chatbot-project
-Educational project focused on building a simple chatbot from scratch. Demonstrates basic principles of conversational AI, message handling, and interaction flow.
-
 # Digital Factory's FAQ Demo (Phase 1)
-- Minimal, frontend-only demo (no backend, no styling). 
-- Input + button → shows an answer in a modal and logs to the console.
 
-## Run locally
-- Open `index.html` in a browser.
+A lightweight, rules-based chatbot demo for Digital Factory.
 
-## Edit FAQ / logic
-- In `index.html`, update the `FAQ` array (id, keywords, examples, answer).
-- Keep the function `answerQuestion(message)` unchanged (used by the UI now and by a future `/chat` backend later).
+## Features
+- **Frontend-only**: No backend required, runs entirely in the browser.
+- **Modular Structure**: Separated into HTML, CSS, and JS for easy maintenance.
+- **Interactive UI**: Includes suggestion chips, a modal for answers, and a clean design.
+- **Keyword Matching**: Uses a simple scoring system to match user questions with FAQ items.
+
+## Project Structure
+- `index.html`: The main structure of the page.
+- `style.css`: All styles and layout rules.
+- `script.js`: Logic (search algorithm, event listeners) and the **FAQ data**.
+- `roadmap.md`: Development roadmap for future phases.
+
+## How to Run
+Simply open `index.html` in any modern web browser.
+
+## How to Edit
+- **Update FAQ**: Edit the `FAQ_DATA` object in `script.js`.
+- **Change Styles**: Modify `style.css`.
+- **Logic**: The search and matching logic is in `script.js`.
